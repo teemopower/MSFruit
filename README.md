@@ -1,2 +1,5 @@
 # MSFruit
-Created with CodeSandbox
+
+Clone or Download Code
+npm i
+npm run build
